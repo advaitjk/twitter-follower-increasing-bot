@@ -17,5 +17,7 @@ unfollow_from_list(unfollowing_list): Unfollows all the accounts that are given 
 
 Please be careful while using this code and remember to leave at least 1-2 days between following and unfollowing accounts, otherwise, you will end up getting shadowbanned on Twitter, i.e, you will not be able to follow or unfollow anyone for 3 days.
 
+For Future:
+- Add daily analytics on what kind of profiles are more likely to follow back
 
 Please Note: This bot was purely built for fun and research. It is not the author's responsibility how you use this code.
