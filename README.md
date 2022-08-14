@@ -16,3 +16,6 @@ follow_from_list(accounts): Follows all the accounts that are given in the list 
 unfollow_from_list(unfollowing_list): Unfollows all the accounts that are given in the list and saves all the unfollowed accounts into the CSV file 
 
 Please be careful while using this code and remember to leave at least 1-2 days between following and unfollowing accounts, otherwise, you will end up getting shadowbanned on Twitter, i.e, you will not be able to follow or unfollow anyone for 3 days.
+
+
+Please Note: This bot was purely built for fun and research. It is not the author's responsibility how you use this code.
